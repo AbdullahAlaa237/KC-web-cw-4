@@ -17,7 +17,7 @@ height: 150px;
 margin: auto;
 border-radius: 50%;
 opacity: 0.5;
-transition: 0.5;
+transition: all 0.5s;
 
 box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
 
